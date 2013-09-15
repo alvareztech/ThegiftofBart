@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res" >
+            <file
+                name="btn_circle"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable/btn_circle.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="boton"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-hdpi/boton.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="boton_pressed"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-hdpi/boton_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="boton"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-mdpi/boton.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boton_pressed"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-mdpi/boton_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="logo_bart"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-mdpi/logo_bart.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="boton"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-xhdpi/boton.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="boton_pressed"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-xhdpi/boton_pressed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="callate"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/raw/callate.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="go_the_hell"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/raw/go_the_hell.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="idiota"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/raw/idiota.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="kiss_my_ass"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/raw/kiss_my_ass.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="shut_up"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/raw/shut_up.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="vete_al_diablo"
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/raw/vete_al_diablo.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >The gift of Bart
+                </string>
+            </file>
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values-es/strings.xml"
+                qualifiers="es" >
+                <string name="app_name" >El regalo de Bart
+                </string>
+            </file>
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/daniel/Desktop/ThegiftofBartProject/ThegiftofBart/src/debug/res" />
+    </dataSet>
+
+</merger>
